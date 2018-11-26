@@ -1,6 +1,7 @@
-# cactus-vue-test
+# Cactus VueJS test for applicants.
 
-> This is a vue test developed by Cactus (2018)
+> This is a vue test developed by Cactus (2018).
+This will be used for validate applicant's skills.
 
 ## Build Setup
 
