@@ -1,8 +1,8 @@
 # Cactus VueJS test for applicants.
 
-> This is a vue test developed by Cactus (2018).
+### This is a vue test developed by Cactus (2018).
 This will be used for validate applicant's skills.
-
+----
 ## Build Setup
 # 
 
@@ -19,7 +19,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
+----
 ## Build Setup
 # 
 ``` bash
@@ -28,15 +28,16 @@ npm run build --report
    "npm": ">= 3.0.0"
 ```
 
-
+-----
 # Attachments 
 
-## Problem Definition
+## Problem Definition :
 
-[Download this file](https://drive.google.com/open?id=1v32eg_owICEvQJXUq5XoXYb6shGEQ7bJ)
+### [Download this file](https://drive.google.com/open?id=1v32eg_owICEvQJXUq5XoXYb6shGEQ7bJ)
 
-## Problem Definition
+## Briefing :
 
-[Download this file](https://drive.google.com/file/d/1hvzaQ4CDutmhI_xVxAzLdV3vkmzLeByB/view)
+### [Download this file](https://drive.google.com/file/d/1hvzaQ4CDutmhI_xVxAzLdV3vkmzLeByB/view)
+----
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
