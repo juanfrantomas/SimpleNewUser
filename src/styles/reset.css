@@ -1,0 +1,25 @@
+html, body{
+  height: 100%;
+  width: 100%;
+}
+html *{
+  font-family: 'Roboto';
+  color: #3C3C3A;
+  font-weight: 300;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+input{
+  border: 1px solid #d8d8d8;
+  border-radius: 6px;
+  min-height: 38px;
+  font-size: 20px;
+  padding-left: 10px;
+  width: 100%;
+}

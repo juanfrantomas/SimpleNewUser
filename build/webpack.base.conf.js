@@ -46,10 +46,10 @@ module.exports = {
         loader: 'vue-loader',
         options: vueLoaderConfig
       },
-      {
-        test: /\.svg$/,
-        use: [{ loader: 'html-loader' }]
-      },  
+      // {
+      //   test: /\.svg$/,
+      //   use: [{ loader: 'html-loader' }]
+      // },
       {
         test: /\.js$/,
         loader: 'babel-loader',
