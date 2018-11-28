@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <!-- <img src="./assets/logo.png"> -->
     <router-view/>
   </div>
 </template>
@@ -12,6 +11,7 @@ export default {
 </script>
 
 <style src="@/styles/reset.css"></style>
+<style src="@/styles/main.css"></style>
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -26,5 +26,4 @@ export default {
   justify-content: center;
   align-items: center;
 }
-
 </style>
