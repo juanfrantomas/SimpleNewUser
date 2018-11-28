@@ -61,4 +61,8 @@ button {
   height: 25px;
   border-radius: 3px;
   padding: 0 .5rem;
+  border:1px solid #d8d8d8;
+}
+button:hover {
+  border:1px solid #bebebe;
 }

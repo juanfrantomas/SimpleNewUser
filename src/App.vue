@@ -10,9 +10,8 @@ export default {
 }
 </script>
 
-<style src="@/styles/reset.css"></style>
-<style src="@/styles/main.css"></style>
 <style>
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -27,3 +26,5 @@ export default {
   align-items: center;
 }
 </style>
+<style src="@/styles/reset.css"></style>
+<style src="@/styles/main.css"></style>

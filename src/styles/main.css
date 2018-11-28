@@ -48,6 +48,8 @@
   top:-5rem;
   right: 0;
   width: 50%;
+  max-width: 240px;
+  min-width: 200px;
 }
 #main .home__container #input{
   margin: 10px 0 30px;
