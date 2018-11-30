@@ -24,7 +24,12 @@ export default {
       default: "100%"
     }
   },
-  computed: {}
+  computed: {},
+  watch: {
+    color(val,oldVal) {
+      this.color = val;
+    }
+  }
 };
 </script>
 <style scoped>
